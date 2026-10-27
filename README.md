@@ -17,3 +17,6 @@
 ## 배포
 
 GitHub 저장소에 push하면 GitHub Pages가 1분 안팎으로 반영합니다.
+
+- 주소: https://innodep-sales.github.io/
+- 저장소: https://github.com/Innodep-Sales/innodep-sales.github.io (GitHub 조직 Innodep-Sales, 개인 계정 wkdwlstjr914-commits가 관리자)
